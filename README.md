@@ -1,8 +1,10 @@
 University Course Registration System
+
 This project is a simple Course Registration System using linked lists (and stacks for undo/redo as bonus).
 It manages students, courses, and their enrollments in a dynamic way.
 
 Objectives
+
 Store only needed enrollments using linked lists.
 Add/Remove students and courses easily.
 Enroll/Remove students from courses.
